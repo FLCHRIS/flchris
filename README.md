@@ -12,7 +12,6 @@
 <h3>🌱 I’m currently learning: </h3>
 
 - **Accessibility** 💜
-- **Framer Motion** 🎨
 - **Type Script** 💙
 - **Vue JS** 💚
 
