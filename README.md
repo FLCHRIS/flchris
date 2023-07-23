@@ -43,3 +43,5 @@ Tools that I use in my day to day to develop are the following:
 ![ESLint](https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 
 </div>
+
+**Happy coding!** :v:
