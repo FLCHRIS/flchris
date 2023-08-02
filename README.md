@@ -8,7 +8,7 @@ Some of my platforms...
 
 - [Frontend Mentor | Christian's profile](https://www.frontendmentor.io/profile/FLCHRIS)
 - [GitHub](https://github.com/FLCHRIS)
-- [Portfolio](https://christianfl.netlify.app/)
+- [Web Site](https://christianfl.netlify.app/)
 
 ## :seedling: **I’m currently learning:**
 
