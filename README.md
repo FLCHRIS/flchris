@@ -32,7 +32,7 @@ Languages, frameworks and preprocessors that I master are the following:
 
 </div>
 
-Tools that I use in my day by day to develop are the following:
+The tools that I use in my day by day to program are the following:
 
 <div align='center'>
 
