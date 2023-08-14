@@ -13,7 +13,6 @@ Some of my platforms...
 ## :seedling: **I’m currently learning:**
 
 - **Accessibility** :purple_heart:
-- **Type Script** :purple_heart:
 - **Vue JS** :purple_heart:
 
 ## **Languages and Tools:**
@@ -29,6 +28,7 @@ Languages, frameworks and preprocessors that I master are the following:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Node.JS](https://img.shields.io/badge/NODEJS-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 
 </div>
 
