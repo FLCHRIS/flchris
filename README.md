@@ -13,7 +13,7 @@ Some of my platforms...
 ## :seedling: **I’m currently learning:**
 
 - **Accessibility** :purple_heart:
-- **Vue JS** :purple_heart:
+- **NestJS** :purple_heart:
 
 ## **Languages and Tools:**
 
