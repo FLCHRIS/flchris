@@ -12,12 +12,12 @@ Some of my platforms...
 
 ## :seedling: **I’m currently learning:**
 
-- **Accessibility** :purple_heart:
 - **NestJS** :purple_heart:
+- **Svelte** :orange_heart:
 
-## **Languages and Tools:**
+## **My skills**
 
-Languages, frameworks and preprocessors that I master are the following:
+Frontend technology that I master are the following:
 
 <div align='center'>
 
@@ -31,18 +31,27 @@ Languages, frameworks and preprocessors that I master are the following:
 
 </div>
 
-The tools that I use in my day by day to program are the following:
+Development tools:
 
 <div align='center'>
 
 ![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Vite](https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Yarn](https://img.shields.io/badge/YARN-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![ESLint](https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/NODEJS-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+
+</div>
+
+Other knowledge:
+
+<div align='center'>
+
+![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 </div>
 
