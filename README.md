@@ -1,4 +1,6 @@
-# Hi there!, [**I'm Christian**](https://christianfl.netlify.app/) :man_technologist:
+![](./assets/header.png)
+
+# Hi there!, [**It's Christian**](https://christianfl.netlify.app/) :man_technologist:
 
 I'm a computer technology student, passionate about web technologies :sparkling_heart:.
 
@@ -6,14 +8,18 @@ My area of interest is website design and development, accessible and user-frien
 
 Some of my platforms...
 
-- [Frontend Mentor | Christian's profile](https://www.frontendmentor.io/profile/FLCHRIS)
 - [GitHub](https://github.com/FLCHRIS)
 - [Website](https://christianfl.netlify.app/)
 
 ## :seedling: **I’m currently learning:**
 
-- **NestJS** :purple_heart:
-- **Svelte** :orange_heart:
+<div align='center'>
+
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
+
+</div>
 
 ## **My skills**
 
