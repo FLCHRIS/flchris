@@ -1,15 +1,17 @@
 ![](./assets/header.png)
 
+<div align='center'>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FLCHRIS)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://christianfl.netlify.app/)
+
+</div>
+
 # Hi there!, [**It's Christian**](https://christianfl.netlify.app/) :man_technologist:
 
 I'm a computer technology student, passionate about web technologies :sparkling_heart:.
 
 My area of interest is website design and development, accessible and user-friendly design. Whenever possible, I also use my passion to develop projects using *Node.js* and *JavaScript* libraries and frameworks like *React*.
-
-Some of my platforms...
-
-- [GitHub](https://github.com/FLCHRIS)
-- [Website](https://christianfl.netlify.app/)
 
 ## :seedling: **I’m currently learning:**
 
