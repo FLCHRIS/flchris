@@ -1,6 +1,6 @@
-![](./assets/header.png)
-
 <div align='center'>
+
+![](./assets/header.png)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FLCHRIS)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://christianfl.netlify.app/)
