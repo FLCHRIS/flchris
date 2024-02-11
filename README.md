@@ -23,8 +23,6 @@ My area of interest is website design and development, accessible and user-frien
 
 ## **My skills**
 
-Frontend technology that I master are the following:
-
 <div align='center'>
 
 ![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
