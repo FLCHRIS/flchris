@@ -21,7 +21,7 @@
 - 🎓 I'm currently learning FastAPI, NestJS
 - 👀 Take a look at [My portfolio](https://fkhris-ts.netlify.app/)
 
-# My skills
+## My skills
 
 <div align='center'>
 
