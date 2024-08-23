@@ -6,7 +6,7 @@
 <div align='center'>
   <image src='./assets/illustration01.png' width='300px' />
   <p>Welcome to my Github profile ✨</p>
-  <p>I'm a Web Developer 🚀 from México</p>
+  <p>I'm a computer technology student 🚀 from México</p>
   <p>I love to create web applications 💕</p>
 
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FLCHRIS)
