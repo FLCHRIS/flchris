@@ -18,7 +18,7 @@
 
 - 👨🏻‍💻 I'm currently working on my Personal Blog ✍🏻
 - 💬 Ask me about React, JavaScript, Express
-- 🎓 I'm currently learning FastAPI, NestJS
+- 🎓 I'm currently learning NestJS
 - 👀 Take a look at [My portfolio](https://fkhris-ts.netlify.app/)
 
 ## My skills
