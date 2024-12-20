@@ -10,7 +10,7 @@
   <p>I love to create web applications 💕</p>
 
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FLCHRIS)
-  [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fkhris.vercel.app/)
+  [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://khriss.vercel.app/)
 
 </div>
 
@@ -19,7 +19,7 @@
 - 👨🏻‍💻 I'm currently working on my Personal Blog ✍🏻
 - 💬 Ask me about React, JavaScript, Express
 - 🎓 I'm currently learning NestJS
-- 👀 Take a look at [My portfolio](https://fkhris.vercel.app/)
+- 👀 Take a look at [My portfolio](https://khriss.vercel.app/)
 
 ## My skills
 
