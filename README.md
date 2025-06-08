@@ -16,7 +16,7 @@
 
 ## About me
 
-- 💬 Ask me about React, JavaScript, Express, FastAPI
+- 💬 Ask me about React, Vue, JavaScript, Express, FastAPI
 - 🎓 I'm currently learning NestJS
 - 👀 Take a look at [My portfolio](https://khriss.vercel.app/)
 
